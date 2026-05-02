@@ -74,11 +74,11 @@
   }
 
   .text-accent-custom {
-    color: hsl(28, 60%, 52%);
+    color: hsl(217, 91%, 60%);
   }
 
   .bg-accent-custom {
-    background-color: hsl(28, 60%, 52%);
+    background-color: hsl(217, 91%, 60%);
   }
 }
 
@@ -173,10 +173,10 @@ html {
   width: 4px;
 }
 ::-webkit-scrollbar-track {
-  background: hsl(40, 20%, 97%);
+  background: hsl(220, 15%, 97%);
 }
 ::-webkit-scrollbar-thumb {
-  background: hsl(40, 15%, 75%);
+  background: hsl(220, 15%, 80%);
   border-radius: 2px;
 }
 
@@ -191,5 +191,5 @@ html {
   content: "";
   flex: 1;
   height: 1px;
-  background: hsl(40, 15%, 85%);
+  background: hsl(220, 15%, 90%);
 }

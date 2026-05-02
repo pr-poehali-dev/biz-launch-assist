@@ -150,7 +150,7 @@ const Index = () => {
 
       {/* HERO */}
       <section id="home" className="min-h-screen flex items-center relative overflow-hidden">
-        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,hsl(28,60%,95%,0.4)_0%,transparent_60%)]" />
+        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,hsl(217,91%,95%,0.5)_0%,transparent_60%)]" />
         <div className="max-w-6xl mx-auto px-6 lg:px-8 w-full pt-24 pb-16">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <div>
@@ -357,7 +357,7 @@ const Index = () => {
         <div className="max-w-6xl mx-auto px-6 lg:px-8">
           <SectionWrapper>
             <div className="mb-14">
-              <p className="text-xs tracking-[0.3em] uppercase font-light mb-3" style={{ color: "hsl(28, 60%, 65%)" }}>Отзывы</p>
+              <p className="text-xs tracking-[0.3em] uppercase font-light mb-3" style={{ color: "hsl(217, 91%, 75%)" }}>Отзывы</p>
               <h2 className="font-display text-5xl lg:text-6xl font-light text-background">Говорят клиенты</h2>
             </div>
           </SectionWrapper>
@@ -375,7 +375,7 @@ const Index = () => {
                     </div>
                     <div>
                       <p className="font-light text-background text-sm">{t.name}</p>
-                      <p className="text-xs font-light" style={{ color: "hsl(28, 60%, 65%)" }}>{t.role}</p>
+                      <p className="text-xs font-light" style={{ color: "hsl(217, 91%, 75%)" }}>{t.role}</p>
                     </div>
                   </div>
                 </div>
